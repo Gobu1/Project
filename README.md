@@ -76,7 +76,7 @@
 
 #### 인원들과의 채팅
 
-<img src=".img/chat_d.JPG">
+<img src=".img/chat_d.jpg">
 
 - 해당 파티에 채팅방에 입장하여 채팅 가능
 
